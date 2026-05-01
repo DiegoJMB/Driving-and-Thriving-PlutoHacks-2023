@@ -1,5 +1,5 @@
 
-# Author: Diego Munoz Bodden
+# Author: Diego MB
 # This program will answer any of the user's questions regarding the rules of driving on the road by using ChatGPT.
 
 
